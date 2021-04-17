@@ -11,11 +11,10 @@ Rewarding you when you act financially responsible
 - Many are struggling to provide and care for themselves and others under this financial stress.
 
 # Solution💡️
-- Give users an incentive to save, invest, and financially responsible by rewarding them with gift cards, coupons, etc.
-- We help them find ways to invest safely by finding them investments that fit their financial profile/portfolio.
-- Give budgeting tips based on the progress made.
+- Manage and visualizes your income and expenses.
+- Rewards users who stick to their budget or show any acts of financial responsibility. 
 
-# Target🎯️
+# Target Audience🎯️
 - Adults that are simply struggling to get their finances in order.
 - Teens and Young Adults wanting to learn more about saving, budgeting, investing, etc.
 
