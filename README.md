@@ -5,12 +5,12 @@
 Rewarding you when you act financially responsible
 
 
-# Problem
+# Problem🤔
 - The pandemic has caused a financial strain on many individuals.
 - The student loan debt continues to increase with no clear solution.
 - Many are struggling to provide and care for themselves and others under this financial stress.
 
-# How we are trying to solve it💡️
+# Solution💡️
 - Give users an incentive to save, invest, and financially responsible by rewarding them with gift cards, coupons, etc.
 - We help them find ways to invest safely by finding them investments that fit their financial profile/portfolio.
 - Give budgeting tips based on the progress made.
