@@ -20,8 +20,10 @@ Rewarding you when you act financially responsible
 - Teens and Young Adults wanting to learn more about saving, budgeting, investing, etc.
 
 # Future Roadmap🚀️
-- Keeping detailed track of users
-- Making an Android App
+- Making an app version
+- Adding new languages
+- Working with other big corporations to provide more intriguing rewards for our consumers.
+
 
 
 
