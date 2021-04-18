@@ -20,7 +20,6 @@ Rewarding you when you act financially responsible
 
 # Future Roadmap🚀️
 - Making an app version
-- Adding new languages
 - Working with other big corporations to provide more intriguing rewards for our consumers.
 
 
