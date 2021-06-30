@@ -1,6 +1,5 @@
 ![Untitled design (1)](https://user-images.githubusercontent.com/52230497/115115476-4aa11d80-9fb2-11eb-838d-e76885a1e8c9.png)
 
-
 # FinWealth💰️
 Rewarding you when you act financially responsible
 
